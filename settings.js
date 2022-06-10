@@ -8,7 +8,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '4c6f5565e0', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
@@ -19,7 +19,7 @@ global.ownername = '♡━ ꪗꪖకỉꪗꪖ ━♡'
 global.botname = 'Qᴜᴇᴇɴ ᴊᴇꜱɪ'
 global.footer = '🎼━ ♥️ 𝓠𝓾𝓮𝓮𝓷 𝓙𝓮𝓼𝓲 ♥️ ━🎼'
 global.ig = 'https://github.com/Sl-Yasia'
-global.region = 'Sri Lanka, South India, Kerala'
+global.region = 'Sri Lanka'
 global.sc = 'https://github.com/Sl-Yasia/Md-Bot'
 global.myweb = ''
 global.packname = '𓂀 ♥️𝓑𝔂 𝓠𝓾𝓮𝓮𝓷 𝓙𝓮𝓼𝓲 ♥️ 𓂀'
