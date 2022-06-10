@@ -1,6 +1,4 @@
-## Md-Bot
-
-> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+# Md-Bot
 
 > [Automated Multi Device whatsapp bot]
 
